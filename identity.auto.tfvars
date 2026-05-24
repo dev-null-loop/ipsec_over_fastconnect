@@ -4,3 +4,5 @@ region       = "eu-frankfurt-1"
 compartment_ids = {
   dev = "ocid1.compartment.oc1..aaaaaaaawpw5xpzxhzyhramvfhacgthnjljuojhijewbvm6dxaadsrixs7ya"
 }
+
+compartment_name = "dev"
